@@ -23,6 +23,7 @@ import { LiaTimesSolid } from 'react-icons/lia';
 import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import "./globals.css";
 
 interface ModalProps {
   isOpen: boolean;

@@ -86,8 +86,8 @@ export default function LoginPage() {
   };
 
   return (
-    <main className="flex items-center justify-center min-h-screen w-screen">
-      <section className="h-screen flex flex-col items-center max-w-lg lg:max-w-xl w-full px-0 pb-10">
+    <main className="!flex !items-center !justify-center !min-h-screen !w-screen">
+      <section className="h-screen !flex !flex-col !items-center !max-w-sm w-full px-0 pb-10">
         {/* Login box */}
         <div className="md:border-2 border-gray-300 px-8 py-10 w-full">
           <form className="grid gap-3 w-full" onSubmit={handleSubmit(onSubmit)}>
