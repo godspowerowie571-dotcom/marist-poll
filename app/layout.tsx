@@ -21,14 +21,14 @@ export const metadata: Metadata = {
     url: "https://marist-poll.netlify.app/",
     title: "Vote your favourite model",
     description: "Choose and vote for your favourite model.",
-    images: ["/man.jpeg"],
+    images: ["https://marist-poll.netlify.app/man.jpeg"],
   },
   twitter: {
     card: "summary_large_image",
     site: "@your_twitter",
     title: "Vote your favourite model",
     description: "Choose and vote for your favourite model.",
-    images: ["/man.jpeg"],
+    images: ["https://marist-poll.netlify.app/man.jpeg"],
   },
 };
 
